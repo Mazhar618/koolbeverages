@@ -1,2 +1,0 @@
-# koolbeverages
-Access WiFi easily.
